@@ -1,9 +1,8 @@
-/* 鼠标样式 */
+/*鼠标样式
 #cursor {
     position: fixed;
     width: 16px;
     height: 16px;
-    /* 这里改变跟随的底色 */
     background: var(--theme-color);
     border-radius: 8px;
     opacity: 0.25;
@@ -34,7 +33,8 @@
     -ms-transform: scale(0.5);
     -o-transform: scale(0.5);
   }
-
+  
+*/
   body {
     font-family: "LXGW WenKai", sans-serif;
     /* Lite version */
